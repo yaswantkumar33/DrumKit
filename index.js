@@ -51,7 +51,7 @@ function makesound(key){
             snare = new Audio("sounds/snare.mp3");
             snare.play();
             break;
-        default: console.log(buttoninnerHTML);
+        default: console.log("");
     }
 
 }
